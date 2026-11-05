@@ -50,6 +50,12 @@ Typzen is designed around three simple ideas:
 
 No backend, database, Firebase or external API is required.
 
+## 🌐 Live Demo
+
+**Try Typzen here:**
+
+🔗 [https://typzen.blogspot.com/](https://typzen.blogspot.com/)
+
 ## 🚀 Getting Started
 
 ### Run Locally
